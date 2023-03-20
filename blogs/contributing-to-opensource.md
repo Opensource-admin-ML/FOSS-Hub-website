@@ -1,10 +1,11 @@
 ---
-title: A Journey towards contributing to the open-source Project
+title: A Journey towards contributing to an open-source project
 banner: /images/blogs/journey-toward-opensource-project.svg
 thumbnail: /images/blogs/journey-toward-opensource-project.svg
 featured: true
 starred: false
 author: Akhil Nair
+authorAvatar: /images/blogs/author-akhil.jpg
 date: 01/01/2023 #mm/dd/yyyy
 ---
 
