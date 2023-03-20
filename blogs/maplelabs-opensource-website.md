@@ -5,7 +5,7 @@ thumbnail: /images/blogs/collaboration.png
 featured: true
 starred: false
 author: Aishik Mukherjee
-authorAvatar: /images/blogs/pic-AM.jpg
+authorAvatar: /images/blogs/author-aishik.jpg
 date: 03/06/2023 #mm/dd/yyyy
 ---
 
