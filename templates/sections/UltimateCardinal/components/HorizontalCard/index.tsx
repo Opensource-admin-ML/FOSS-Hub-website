@@ -20,7 +20,7 @@ export default function HorizontalCard({ blog }: CardProps) {
             <p>{blog.description}</p>
             <Link href={`${blog.path}/${blog.slug}`}>
               <button className='uk-text-bold uk-button uk-button-link'>
-                Read More <span uk-icon='arrow-right'></span>
+                Read the Blog <span uk-icon='arrow-right'></span>
               </button>
             </Link>
             <div className='uk-flex uk-flex-middle uk-margin-top'>

@@ -18,7 +18,7 @@ export default function VerticalCard({ blog }: CardProps) {
             <div className='uk-position-bottom uk-padding uk-padding-remove-bottom uk-margin-medium-bottom uk-flex uk-flex-between'>
               <Link href={`${blog.path}/${blog.slug}`}>
                 <button className='uk-text-bold uk-button uk-button-link'>
-                  Read More <span uk-icon='arrow-right'></span>
+                  Read the Blog <span uk-icon='arrow-right'></span>
                 </button>
               </Link>
               <div>

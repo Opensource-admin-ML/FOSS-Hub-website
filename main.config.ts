@@ -5,7 +5,7 @@ import githubService from './services/GitHub';
 const config: Config = {
   render: 'static',
   meta: {
-    title: 'OpenSource @ MapleLabs',
+    title: 'MapleLabs Open Source',
     description:
       'Get involved in open source communities, discover projects and learn about MapleLabs opensource program.',
     robots: 'index, follow',
