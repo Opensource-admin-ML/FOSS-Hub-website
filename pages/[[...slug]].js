@@ -9,6 +9,10 @@ export default function Template({ meta, header, sections, footer }) {
         <title>{meta.title}</title>
         <meta name='description' content={meta.description}></meta>
         <meta name='robots' content={meta.robots}></meta>
+        <meta
+          name='viewport'
+          content='width=device-width, initial-scale=1'
+        ></meta>
         <link rel='icon' href={meta.favicon} />
       </Head>
       <main>
